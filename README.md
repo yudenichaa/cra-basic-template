@@ -1,1 +1,1 @@
-# Components
+# CRA basic template
